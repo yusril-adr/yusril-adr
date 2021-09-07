@@ -32,6 +32,8 @@
 <a href="https://github.com/yusril-adr">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yusril-adr&show_icons=true&theme=gradient&title_color=fff&icon_color=5C9FF0&text_color=9f9f9f&bg_color=151515" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusril-adr&bg_color=151515&text_color=9f9f9f&title_color=fff&layout=compact" />
+  <br/>
+  <img height="200em" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=yusril_adr&bg_color=151515&text_color=9f9f9f&title_color=fff&layout=compact" />
 </a>
 
 <br/>
