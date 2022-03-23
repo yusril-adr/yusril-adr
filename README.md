@@ -30,13 +30,16 @@
 <br/>
 
 <a href="https://github.com/yusril-adr">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yusril-adr&show_icons=true&theme=radical&title_color=61D9FA&icon_color=61D9FA&text_color=fff&bg_color=20232A" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yusril-adr&show_icons=true&theme=radical&title_color=61D9FA&icon_color=61D9FA&text_color=fff&bg_color=20232A" />
+<!--   <br/>
   <br/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusril-adr&bg_color=20232A&text_color=fff&title_color=61D9FA&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusril-adr&bg_color=20232A&text_color=fff&title_color=61D9FA&layout=compact" /> -->
   <br/>
-  <img height="200em" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=yusril_adr&bg_color=20232A&text_color=fff&title_color=61D9FA&layout=compact" />
   <br/>
-  <img height="200em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1&theme=react" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1&theme=react" />
+  <br/>
+  <br/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=yusril_adr&bg_color=20232A&text_color=fff&title_color=61D9FA&layout=compact" />
 </a>
 
 <br/>
