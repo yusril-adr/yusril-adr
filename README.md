@@ -45,7 +45,7 @@
 <br/>
 
 ## 🏆 &nbsp;GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=yusril-adr&theme=discord&no-frame=true&margin-w=4)
+![My Github Trophies](https://github-profile-trophy.vercel.app/?username=yusril-adr&theme=discord&no-frame=true&margin-w=4)
 
 <h2> 🤝🏻 &nbsp;Connect with Me</h2>
 
