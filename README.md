@@ -53,5 +53,8 @@
 <a href="mailto:yusriladr.37@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-yusriladr.37@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
+## 🏆 &nbsp;GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=yusril-adr&theme=discord&no-frame=true&margin-w=4)
+
 ---
 ⭐️ Created with 💗 by [Yusril A. P.](https://github.com/yusril-adr "My github profile")
