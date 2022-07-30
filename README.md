@@ -39,7 +39,7 @@
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusril-adr&bg_color=20232A&text_color=fff&title_color=61D9FA&layout=compact" /> -->
   <br/>
   <br/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=yusril_adr&bg_color=20232A&text_color=fff&title_color=61D9FA&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=yusril_adr&bg_color=20232A&text_color=fff&title_color=61D9FA" />
 </a>
 
 <br/>
