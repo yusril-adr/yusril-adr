@@ -46,10 +46,10 @@
 <br/>
 
 <a href="https://github.com/yusril-adr">
-  <img src="https://github-readme-stats.vercel.app/api?username=yusril-adr&show_icons=true&count_private=true&include_all_commits=true&theme=radical&title_color=61D9FA&icon_color=61D9FA&text_color=fff&bg_color=20232A" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yusril-adr&show_icons=true&count_private=true&theme=radical&title_color=61D9FA&icon_color=61D9FA&text_color=fff&bg_color=20232A" />
   <br/>
   <br/>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1&theme=react" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=yusril-adr&theme=react" />
 <!--    <br/>
    <br/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusril-adr&bg_color=20232A&text_color=fff&title_color=61D9FA&layout=compact" /> -->
