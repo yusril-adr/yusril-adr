@@ -3,7 +3,7 @@
 ## 👨🏻‍💻 &nbsp;About Me</h2>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions especially on website.
-- 🎓 &nbsp; Studying Information System at State University of Surabaya.
+- 🎓 &nbsp; Graduated from Information System at State University of Surabaya.
 
 ## 🛠 &nbsp;Tech Stack</h2>
 
